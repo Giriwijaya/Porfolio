@@ -1,0 +1,27 @@
+/*css home*/
+.jumbotron{
+    background-color:#e2edff ;
+    padding-top: 7rem;
+}
+/*css about*/
+.about{
+    background-color:#f3f4f5 ;
+    padding-top: 6rem;
+}
+/*css project*/
+.project{
+    background-color: #e2edff;
+    padding-top: 6rem;
+}
+
+/*css contacct*/
+.contact{
+    background-color: #f3f4f5;
+    padding-top: 6rem;
+}
+
+.d-flex{
+    background-color: #e2edff;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
